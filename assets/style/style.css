@@ -3,3 +3,19 @@
     margin: 0;
     box-sizing: border-box;
 }
+body{
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+}
+header, main, footer{
+    padding: 24px 0;
+}
+header{
+    background-color: lightblue;
+}
+main{
+    background-color: red;
+}
+footer{
+    background-color: rgb(10, 141, 97);
+}
